@@ -4,6 +4,8 @@ All notable changes to this project are documented below.
 The format is based on [keep a changelog](http://keepachangelog.com) and this project uses [semantic versioning](http://semver.org).
 
 ## [Unreleased]
+### Added
+- Added Nakama API to get users by facebook ID.
 
 ## [3.1.0] - 2021-02-04
 ### Added
